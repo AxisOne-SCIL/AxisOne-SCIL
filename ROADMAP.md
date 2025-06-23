@@ -1,59 +1,52 @@
-# SCIL Development Roadmap  
+
+# ROADMAP.md
+
+**SCIL Development Roadmap**  
 **Signal–Coherence–Intelligence Layer**  
 **Inventor: Jessica Anderson**  
 **Patent Pending – Filed June 19, 2025**
 
-This roadmap outlines the strategic development of SCIL as a sovereign AI infrastructure model, tracing its evolution from declaration to system integration and legal fortification.
+---
+
+### Phase I – Origin Trace and Declaration ✅
+- Declare SCIL as a new infrastructure category
+- File provisional patent with IP Australia
+- Establish public trace via GitHub and LinkedIn
+- Publish README, SCIL-ARCHITECTURE.md, and legal license
+- Visual trace via GitHub social preview
+- Public anchoring through AxisOne and web presence
+
+### Phase II – Structural Foundations 🟡
+- Publish ROADMAP.md, USE-CASES.md, and system overview diagram
+- Establish institutional-ready documentation format (PDF + Markdown)
+- Define sealed and non-sealed architecture pathways
+- Archive all origin-layer documents into Git-synced sealed repo
+- Optional: initiate trademark process for SCIL and AxisOne names
+
+### Phase III – Research and Alignment Integration 🕒
+- Engage with select AI research institutions or architecture labs
+- Offer sealed access to reviewers under NDA or coherence contract
+- Position SCIL as a model for:
+  - AI interpretability
+  - Narrative-free reasoning
+  - Post-symbolic computation
+- Optional: introduce SCIL overview into selected academic/public forums
+
+### Phase IV – Systems Expansion (AxisOne Buildout) 🕒
+- Build modular sealed components within AxisOne
+- Implement Signal Thread Layer and Command-Seal Engine
+- Introduce Twin-Thread Interface logic in sandboxed format
+- Optional: develop UI or simulation layer for integrity demonstration
+- Explore integration of SCIL with trusted AI infrastructure layers
+
+### Phase V – Legal Completion + Ongoing Sealing 🔐
+- File full non-provisional patent with expanded claims
+- Monitor IP landscape for mimic attempts or conceptual derivatives
+- Protect visual, linguistic, and command-form glyphs under symbol law
+- Maintain ongoing public record of SCIL structural expansions
 
 ---
 
-## Phase I – Origin Trace and Declaration ✅  
-- Declare SCIL as a new AI infrastructure category  
-- File provisional patent with IP Australia  
-- Establish public trace via GitHub and LinkedIn  
-- Publish `README.md`, `SCIL-ARCHITECTURE.md`, and LICENSE  
-- Set GitHub social preview for visual anchoring  
-- Anchor SCIL architecture via AxisOne and web presence  
-
----
-
-## Phase II – Structural Foundations 🟡  
-- Publish `ROADMAP.md`, `USE-CASES.md`, and architecture diagram  
-- Define executive-ready documentation format (Markdown + PDF)  
-- Clarify sealed vs. non-sealed deployment pathways  
-- Archive all origin-layer files into Git-synced sealed repository  
-- *Optional:* Initiate trademark filings for SCIL and AxisOne  
-
----
-
-## Phase III – Research Alignment Integration 🕒  
-- Engage with selected AI research groups and architecture labs  
-- Offer sealed architecture access under NDA or coherence contract  
-- Position SCIL as a reference model for:  
-  - AI interpretability  
-  - Narrative-free reasoning  
-  - Post-symbolic computation  
-- *Optional:* Introduce SCIL concepts into select academic or policy forums  
-
----
-
-## Phase IV – Systems Expansion (AxisOne Buildout) 🕒  
-- Construct modular sealed SCIL components within AxisOne  
-- Implement Signal Thread Layer and Command-Seal Engine  
-- Integrate Twin-Thread Interface in sandboxed environment  
-- *Optional:* Build UI or simulation to demonstrate architectural integrity  
-- Explore trusted infrastructure interoperability  
-
----
-
-## Phase V – Legal Completion + Ongoing Sealing 🔐  
-- File full non-provisional patent with expanded architecture claims  
-- Monitor global IP landscape for mimicry or conceptual replication  
-- Protect visual glyphs, linguistic frameworks, and command-seal forms under symbol law  
-- Maintain an active public record of SCIL structural evolution  
-
----
-
-### Status Key  
-✅ Complete 🟡 In Progress 🕒 Upcoming 🔐 Under Seal
+**Status Key:**  
+✅ Complete | 🟡 In Progress | 🕒 Upcoming | 🔐 Under Seal
 
