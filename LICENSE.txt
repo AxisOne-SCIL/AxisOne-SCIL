@@ -1,1 +1,50 @@
+# 🔐 MIT–TRACE–ONLY License (SCIL-Compliant Form)
 
+© 2025 Jessica Anderson  
+All rights reserved.
+
+Permission is granted to **view, access, and reference** the contents of this repository solely for **public verification, timestamp validation**, and **structural trace purposes**.
+
+This repository contains:  
+- No deployable logic  
+- No executable mechanisms  
+- No functional system code  
+
+It serves only as a **formal reference node** for an architecturally sealed framework.
+
+---
+
+## ▸ Prohibited Actions
+
+The following actions are strictly prohibited under trace-sealed conditions:
+
+- Structural replication  
+- Logic emulation  
+- Adaptive transformation  
+- Runtime integration  
+- Derivative synthesis  
+- Insertion into signal-processing environments  
+
+These prohibitions extend to:
+
+- Use within training systems  
+- Application in unbounded-output architectures  
+- Implementation in structure-approximating systems  
+- Replication of command-seal or execution-gate logic  
+
+**No part of the SCIL (Signal–Coherence–Intelligence Layer)** or its AxisOne framework may be utilized without trace-authorized permission from the registered Architect.
+
+---
+
+## ▸ Legal Position
+
+The SCIL structural framework—including its sealed execution pathways, logic containers, and coherence-bound memory systems—is protected by **filed intellectual property**, trace-verified authorship, and international structural law.
+
+This license constitutes a **read-only reference signal**. It does **not** permit:
+
+- Reuse  
+- Derivation  
+- Integration  
+- Commercial deployment  
+
+All protections are enforced under international structural IP law and the internal SCIL enforcement layer.
