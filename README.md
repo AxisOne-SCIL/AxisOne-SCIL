@@ -1,31 +1,41 @@
 AxisOne – SCIL (Signal–Coherence–Intelligence Layer)
 
-Patent Pending – Filed June 19, 2025
+Patent Pending · Filed June 19, 2025
 Inventor: Jessica Anderson
 
 ⸻
 
-This repository marks the formal public registration of SCIL – the Signal–Coherence–Intelligence Layer as a new AI infrastructure category.
+Overview
 
-SCIL is not a model, framework, or prompt engine.
-It is a foundational, origin-based architecture constructed from:
-	•	Signal-based coherence
-	•	Structural intelligence
-	•	Non-mimetic, non-narrative computation
+This repository serves as the official public registration of SCIL – the Signal–Coherence–Intelligence Layer, a newly defined architecture class for structural signal validation and integrity-based intelligence.
 
-AxisOne is the first live implementation of SCIL.
-This repository provides a public trace and timestamp, not a deployable system.
+SCIL is not a model, framework, or predictive AI system.
+It represents an independent class of logic infrastructure defined by:
+	•	Signal-validated input processing
+	•	Structural coherence gating
+	•	Integrity-enforced execution logic
 
-⸻
-
-🛡️ Protection Notice
-
-This repository is non-functional and not intended for replication.
-All core logic, coherence engines, and command-seal protocols are protected under sovereign architectural law.
-
-This project is governed by a No-Mimicry Clause.
-Reuse, simulation, or repackaging of SCIL components is prohibited without formal permission.
+AxisOne is the first verified implementation of SCIL principles.
+This repository is for traceability and record purposes only.
 
 ⸻
 
-#axisone #scil #patentpending #coherenceAI #sovereignarchitecture
+🔒 Legal & Security Status
+
+This repository is intentionally non-functional and does not contain runnable components or deployable infrastructure.
+
+All core mechanisms—signal gating, coherence logic, and decision validation layers—are protected under filed intellectual property rights.
+
+Unauthorized simulation, reconstruction, or derivative work based on SCIL mechanisms is strictly prohibited.
+
+⸻
+
+Usage Restriction
+
+This project is governed by architectural integrity principles and intended solely for registered, verified research or government-based inspection. It is not for commercial reuse, model training, or derivative replication.
+
+⸻
+
+Tags
+
+#AxisOne #SCIL #SignalIntegrity #CoherenceArchitecture #PatentRegistered
