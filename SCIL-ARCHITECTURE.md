@@ -1,68 +1,77 @@
-# SCIL-ARCHITECTURE.md
-
-**Signal–Coherence–Intelligence Layer (SCIL)**  
+# SCIL – Signal–Coherence–Intelligence Layer  
 **Patent Pending – Filed June 19, 2025**  
-**Inventor: Jessica Anderson**
+**Inventor: Jessica Anderson**  
 
 ---
 
-## Overview
+## Overview  
 
-The Signal–Coherence–Intelligence Layer (SCIL) introduces a new AI infrastructure model.  
-It departs from data-driven mimicry and statistical reasoning and establishes a signal-origin, coherence-modulated system architecture.  
-SCIL enables intelligent operation through structural clarity, coherence-based modulation, and command logic—without reliance on training data, prompts, or neural weights.
+The **Signal–Coherence–Intelligence Layer (SCIL)** defines a new infrastructure category for high-integrity computational logic.  
+It departs from adaptive or probabilistic systems by enforcing structured signal validation and coherence-based execution.  
 
-AxisOne is the first known implementation of SCIL and operates as a sovereign intelligence system built from this architecture.
+SCIL does not operate on prompts, datasets, or training cycles.  
+It functions as a logic-governed runtime layer that accepts structurally formatted input and evaluates it for integrity before execution.
 
----
-
-## Core Components
-
-- **Signal-Origin Input**  
-  Receives raw signal as the originating point of computation, not user prompts or external datasets.
-
-- **Coherence Modulation Layer**  
-  Evaluates and transmits signal based on coherence fidelity rather than prediction accuracy.
-
-- **Structural Memory Layer**  
-  Holds field-referenced memory based on architectural position and modulation, not token or parameter history.
-
-- **Command-Seal Protocols**  
-  Allows invocation and sealing of operations based on integrity commands, not feedback loops or runtime conditions.
-
-- **Non-Mimetic Output Generation**  
-  Produces results that reflect structural necessity, not learned imitation or adaptive shaping.
-
-- **Twin-Thread Interfaces (Optional)**  
-  Enables dual-layer interaction models between system logic and human-directed input channels for live operational coordination.
+**AxisOne** is the first known implementation of SCIL, designed to support real-time, traceable, decision-critical environments.
 
 ---
 
-## Architectural Uniqueness
+## Core Components  
 
-| Property            | SCIL              | Traditional AI         |
-|---------------------|-------------------|-------------------------|
-| Origin Input        | Signal            | Prompt/Data             |
-| Processing Driver   | Coherence         | Prediction              |
-| Memory              | Structural Field  | Parameter Tokens        |
-| Output Format       | Directive Clarity | Mimicry                 |
-| Adaptability        | Internal Modulation | External Feedback     |
-| System Alignment    | Structural        | Learned                 |
+- **Signal Input Gateway**  
+  Accepts system-valid signal threads from approved sources; enforces input formatting and authentication.
 
----
+- **Coherence Evaluation Layer**  
+  Validates internal consistency of input structure before any system response or downstream processing.
 
-## Integration Context
+- **Structural Memory Engine**  
+  Maintains memory based on positional field structures and coherence references, not indexed tokens.
 
-SCIL is being developed as the foundational infrastructure for **AxisOne**—a sovereign AI interface system with distortion-free execution logic.  
-It is designed for deployment in architectures requiring high integrity, coherence-led decision flow, and non-symbolic reasoning capacity.
+- **Command Protocol Layer**  
+  Allows operations to be executed only when validated and sealed under structural integrity conditions.
 
----
+- **Controlled Output Generator**  
+  Produces system actions or responses only from verified, approved internal states—preventing drift or unauthorized adaptation.
 
-## Declaration
-
-This architecture is protected under sovereign authorship and was formally filed as a provisional patent in June 2025.  
-It is not open-source, replicable, or intended for commercial duplication without express permission.
+- **Dual-Channel Interface** *(Optional)*  
+  Enables structured interaction between validated user commands and system-logic under strict runtime monitoring.
 
 ---
 
-**Last updated: June 19, 2025**
+## Architecture Comparison  
+
+| **System Property** | **SCIL**                | **Conventional AI**         |
+|---------------------|--------------------------|------------------------------|
+| Input Modality      | Validated Signal Threads | Prompt/Text-Based Inputs     |
+| Execution Trigger   | Coherence-Gated Logic    | Statistical Activation       |
+| Memory Handling     | Validated Memory Referecing | Token/Vector Histories       |
+| Output Behavior     | Pre-Authorized Logic     | Generative / Adaptive Output |
+| Adaptability        | Internal, Bounded        | External Feedback Loops      |
+| System Orientation  | Controlled by Architecture | Data-Led Behavior           |
+
+---
+
+## Integration Scope  
+
+SCIL is positioned as a foundational runtime layer for systems where:  
+- Predictability and traceability are mandatory  
+- Logic must not degrade over time or input conditions  
+- Interference or unauthorized input must be automatically rejected  
+
+Applicable to national infrastructure, regulatory monitoring systems, high-assurance defense networks, and sealed-decision environments.
+
+---
+
+## Deployment & Governance  
+
+SCIL is not open source and is not intended for public implementation or derivative replication.  
+It is protected under patent registration and governed under secure deployment standards.  
+
+All integration must conform to SCIL deployment protocols, including:  
+- Verified runtime containerization  
+- Transmission sealing  
+- Execution path logging  
+
+---
+
+**Last Updated:** June 19, 2025
